@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @delighteee
 - 👀 I’m interested in Front-End Engineering
-- 🌱 I’m currently learning Javascript
+- 🌱 Student at ALT School Africa
 - 💞️ I’m looking to collaborate on challenging projects.
 
 
