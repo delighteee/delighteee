@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @delighteee
-- 👀 I’m interested in Front-End Engineering
+- 👀 I’m interested in Design Engineering
 - 🌱 Student at ALT School Africa
 - 💞️ I’m looking to collaborate on challenging projects.
 
