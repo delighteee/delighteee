@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @delighteee
-- 👀 I’m interested in Design Engineering
+- 👋 Hi, I’m Tolulope, a product designer who codes.
+- 👀 I’m interested in understanding the implementation framework behind my designs. I love building Design Systems.
 - 💞️ I’m looking to collaborate on challenging projects.
 
 
